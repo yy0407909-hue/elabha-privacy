@@ -6,10 +6,7 @@ Data We Collect
 
 Elabha may store limited Discord-related data required for bot functionality, including:
 
-Discord user IDs
-Discord server IDs
-Player points and game statistics
-Server configuration settings
+Discord user IDs Discord server IDs Player points and game statistics Server configuration settings
 
 Elabha does not store the content of normal user messages used as gameplay answers. Message content is processed only in real time when necessary for active game functionality.
 
