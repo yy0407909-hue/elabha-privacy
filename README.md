@@ -1,35 +1,30 @@
-Privacy Policy for Elabha
+# Privacy Policy for Elabha Bot
+**Effective Date:** October 2026
 
-Elabha is a Discord gaming bot that provides multiplayer games, points, leaderboards, and server configuration features.
+Elabha is a comprehensive Discord gaming, economy, and server management bot. We operate on a strict **data-minimization principle**, meaning we only collect what is absolutely necessary for the bot to function.
 
-Data We Collect
+### 1. Data Collection & Storage
+To provide our services (e.g., XP tracking, leaderboards, and dashboard configurations), Elabha strictly stores the following limited data:
+* **Discord User IDs** (to track individual points and levels).
+* **Discord Guild (Server) IDs** (to save server-specific settings).
+* **Bot-Specific Data** (Economy balances, XP, and user ranks).
+* **Server Configurations** (Custom prefixes, welcome channels, and role settings).
 
-Elabha may store limited Discord-related data required for bot functionality, including:
+### 2. The Message Content Intent (Strict No-Logging Policy)
+Elabha requires the **Message Content Intent** exclusively for core gamification features (such as detecting correct trivia answers in real-time) and processing custom prefix commands. 
+* **We DO NOT log, store, or transmit the content of user messages.** 
+* Message content is held in volatile memory only for the millisecond required to evaluate a command or a game answer, after which it is permanently discarded.
 
-Discord user IDs Discord server IDs Player points and game statistics Server configuration settings
+### 3. Data Usage & Sharing
+Stored data is utilized strictly to provide and improve the bot's functionalities. 
+* We **do not** sell, rent, or share user data with any third parties.
+* We **do not** use user data for advertising, profiling, or training Artificial Intelligence (AI) models.
 
-Elabha does not store the content of normal user messages used as gameplay answers. Message content is processed only in real time when necessary for active game functionality.
+### 4. Data Retention & Deletion (Right to be Forgotten)
+Users and Server Administrators retain full ownership of their data. 
+If you wish to have your data, your server's data, or your activity records completely erased from our database, please contact our support team through the official Elabha Support Server. Upon a verified request, all associated records will be permanently expunged from our database immediately.
 
-How We Use Data
+### 5. Contact Us
+For any privacy concerns, data deletion requests, or general support, please reach out to us via the official Elabha Discord Server.
 
-Stored data is used only to provide bot functionality such as games, leaderboards, player progress, server settings, and related features.
-
-We do not sell user data, use it for advertising, profiling, or train artificial intelligence or machine learning models.
-
-Data Retention
-
-Gameplay and configuration data may be retained for as long as necessary to provide Elabha's features.
-
-Data Deletion
-
-Users may request deletion of their stored activity data by contacting the Elabha support team through the official Elabha Discord support server.
-
-Upon a verified request, stored gameplay activity, points, and associated user records can be deleted.
-
-Contact
-
-For privacy questions or data deletion requests, please contact the Elabha support team through the official Elabha Discord support server.
-
-Updates
-
-This Privacy Policy may be updated when Elabha's features or data practices change
+*This Privacy Policy is subject to change. Continued use of Elabha constitutes acceptance of these terms.*
